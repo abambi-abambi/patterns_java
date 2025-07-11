@@ -7,11 +7,12 @@
         <version>3.3.0</version>
         <relativePath/>
     </parent>
+
     <groupId>org.patterns</groupId>
     <artifactId>myproject</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>war</packaging>
     <name>myproject</name>
+    <description>Software design - patterns</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
