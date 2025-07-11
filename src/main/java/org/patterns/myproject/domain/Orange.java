@@ -12,6 +12,6 @@ import java.io.Serializable;
 @SuperBuilder
 @ToString(callSuper = true)
 @EqualsAndHashCode(callSuper = true)
-public class Apple extends Fruit implements Serializable {
+public class Orange extends Fruit implements Serializable {
     private ColorType colorType;
 }
